@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\AdivinhacaoDeNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\AdivinhacaoDeNumero.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\AdivinhacaoDeNumero.AssemblyInfo.cs
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\AdivinhacaoDeNumero.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\bin\Debug\net8.0\AdivinhacaoDeNumero.exe
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\bin\Debug\net8.0\AdivinhacaoDeNumero.deps.json
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\bin\Debug\net8.0\AdivinhacaoDeNumero.runtimeconfig.json
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\bin\Debug\net8.0\AdivinhacaoDeNumero.dll
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\bin\Debug\net8.0\AdivinhacaoDeNumero.pdb
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\AdivinhacaoDeNumero.dll
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\refint\AdivinhacaoDeNumero.dll
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\AdivinhacaoDeNumero.pdb
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\AdivinhacaoDeNumero.genruntimeconfig.cache
+C:\Users\User\Desktop\The incident\C#\AdivinhacaoDeNumero\AdivinhacaoDeNumero\obj\Debug\net8.0\ref\AdivinhacaoDeNumero.dll
